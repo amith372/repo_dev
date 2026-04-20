@@ -1,7 +1,7 @@
-public class amit{
+public class Hello{
 	public static void main(String[] args) {
 		for (int i=1;i<=10;i++){
-			System.out.println("amit");
+			System.out.println("hello World...update"+i);
 		}
 	}
 }
